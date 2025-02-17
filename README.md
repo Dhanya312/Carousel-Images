@@ -1,3 +1,3 @@
-# Carousel-Images
+#Bootstrap Carousel-Images
 
 This is a sliding images page..
